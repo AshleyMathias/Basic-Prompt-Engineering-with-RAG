@@ -40,7 +40,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/ui1.png" width="48%" alt="Main UI" />
+  <img src="Screenshots1/ui1.png" width="48%" alt="Main UI" />
 </p>
 
 ---
