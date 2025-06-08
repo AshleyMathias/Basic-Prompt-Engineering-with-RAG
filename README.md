@@ -59,7 +59,7 @@ cd basic-prompt-rag-tkinter
 
 ### 3️⃣ Install Dependencies
 -- pip install -r requirements.txt
-## ℹ️ If you face langchain_community import errors, run:
+#### ℹ️ If you face langchain_community import errors, run:
 -- pip install -U langchain-community
 
 ### 🧪 Usage
